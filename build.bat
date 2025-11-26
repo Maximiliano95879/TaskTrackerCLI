@@ -1,0 +1,1 @@
+go build -o bin\task-cli.exe .\main.go
